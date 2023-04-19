@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<h2><b><a>Sobre o projeto:</a></b></h2>
+<h2><b>Sobre o projeto:</b></h2>
 <p>Esse projeto foi proposto como desafio no módulo de CSS do curso do <a href="https://rodolfomori.com.br/devclub">DevClub</a> e já conta com responsividade.</p>
 <br>
 <br>
