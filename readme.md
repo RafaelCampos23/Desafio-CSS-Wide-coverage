@@ -1,7 +1,4 @@
 <h1 align="center">Wide coverage location</h1>
-<br>
-<br>
-
 
 <img src="https://github.com/RafaelCampos23/Desafio-CSS-Wide-coverage/blob/master/img/Desafio%20CSS%20-%20Wide%20coverage.png?raw=true" alt="Imagem-projeto"></img>
 
