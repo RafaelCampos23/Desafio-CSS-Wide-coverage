@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<h2><b>Projeção do desafio finalizado:</b></h2>
-<img src="https://github.com/RafaelCampos23/Desafio-CSS-Wide-coverage/blob/master/img/Desafio%20CSS%20-%20Wide%20coverage.png?raw=true" alt="Projecao-projeto"></img>
+<h2><b>Imagem do desafio finalizado::</b></h2>
+<img src="https://github.com/RafaelCampos23/Desafio-CSS-Wide-coverage/blob/master/img/Desafio%20CSS%20-%20Wide%20coverage.png?raw=true" alt="Imagem-projeto"></img>
     
     
